@@ -1,4 +1,5 @@
 # vue-playground
+Playground for Vue3 with form, state management, routing and bundle with Vite.
 
 This template should help get you started developing with Vue 3 in Vite.
 
